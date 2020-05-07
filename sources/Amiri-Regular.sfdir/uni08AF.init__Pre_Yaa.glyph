@@ -1,0 +1,17 @@
+StartChar: uni08AF.init_PreYaa
+Encoding: 1119122 -1 6284
+Width: 533
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "DotAbove" 146 488 basechar 0
+AnchorPoint: "HamzaAbove" 146 488 basechar 0
+AnchorPoint: "TwoDotsAbove" 92 488 basechar 0
+AnchorPoint: "TashkilAbove" 146 801 basechar 0
+AnchorPoint: "DotBelow" 244 -146 basechar 0
+AnchorPoint: "TwoDotsBelow" 195 -146 basechar 0
+AnchorPoint: "TashkilBelow" 181 -327 basechar 0
+LayerCount: 2
+Fore
+Refer: 194 -1 S 1 0 0 1 244 -214 2
+Refer: 188 -1 N 1 0 0 1 0 0 2
+EndChar

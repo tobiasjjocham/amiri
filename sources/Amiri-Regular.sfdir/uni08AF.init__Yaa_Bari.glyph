@@ -1,0 +1,17 @@
+StartChar: uni08AF.init_YaaBari
+Encoding: 1119126 -1 6288
+Width: 732
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "TwoDotsBelow" 281 -102 basechar 0
+AnchorPoint: "DotBelow" 330 -102 basechar 0
+AnchorPoint: "TashkilBelow" 242 -327 basechar 0
+AnchorPoint: "TashkilAbove" 170 801 basechar 0
+AnchorPoint: "TwoDotsAbove" 116 627 basechar 0
+AnchorPoint: "DotAbove" 170 627 basechar 0
+AnchorPoint: "HamzaAbove" 170 627 basechar 0
+LayerCount: 2
+Fore
+Refer: 194 -1 S 1 0 0 1 330 -170 2
+Refer: 4658 -1 N 1 0 0 1 0 0 2
+EndChar

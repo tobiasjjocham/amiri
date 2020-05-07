@@ -1,0 +1,17 @@
+StartChar: uni08AF.fina
+Encoding: 1119119 -1 6281
+Width: 1181
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "HamzaAbove" 822 501 basechar 0
+AnchorPoint: "DotAbove" 822 501 basechar 0
+AnchorPoint: "TwoDotsAbove" 768 501 basechar 0
+AnchorPoint: "TashkilAbove" 820 801 basechar 0
+AnchorPoint: "TashkilBelow" 342 -327 basechar 0
+AnchorPoint: "DotBelow" 830 -146 basechar 0
+AnchorPoint: "TwoDotsBelow" 781 -146 basechar 0
+LayerCount: 2
+Fore
+Refer: 194 -1 S 1 0 0 1 830 -214 2
+Refer: 48 -1 N 1 0 0 1 0 0 2
+EndChar

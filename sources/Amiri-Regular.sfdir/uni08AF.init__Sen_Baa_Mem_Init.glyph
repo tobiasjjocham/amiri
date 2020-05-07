@@ -1,0 +1,15 @@
+StartChar: uni08AF.init_SenBaaMemInit
+Encoding: 1119125 -1 6287
+Width: 698
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "HamzaAbove" 310 437 basechar 0
+AnchorPoint: "TashkilAbove" 308 801 basechar 0
+AnchorPoint: "TashkilBelow" 342 -327 basechar 0
+AnchorPoint: "DotBelow" 391 -195 basechar 0
+AnchorPoint: "TwoDotsBelow" 342 -195 basechar 0
+LayerCount: 2
+Fore
+Refer: 194 -1 N 1 0 0 1 391 -62 2
+Refer: 49 -1 N 1 0 0 1 0 202 2
+EndChar
