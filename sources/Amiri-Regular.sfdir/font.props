@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1273266481
-ModificationTime: 1588883811
+ModificationTime: 1588881422
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -91,13 +91,13 @@ SCANTYPE
 EndTTInstrs
 LangName: 1033 "" "" "" "" "" "" "" "" "" "Khaled Hosny" "Amiri is a classical Arabic typeface in Naskh style for typesetting books and other running text. Its design is a revival of the beautiful typeface pioneered in early 20th century by Bulaq Press in Cairo, also known as Amiria Press, after which the font is named." "http://www.amirifont.org" "http://www.amirifont.org" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an +ACIA-AS IS+ACIA BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software." "http://scripts.sil.org/OFL"
 GaspTable: 1 65535 15 1
-Encoding: UnicodeFull
+Encoding: Custom
 UnicodeInterp: none
 NameList: AGL without afii
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1860 20 9
+WinInfo: 1760 20 9
 BeginPrivate: 0
 EndPrivate
 Grid
