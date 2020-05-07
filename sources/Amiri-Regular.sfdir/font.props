@@ -1,4 +1,4 @@
-SplineFontDB: 3.0
+SplineFontDB: 3.2
 FontName: Amiri-Regular
 FullName: Amiri
 FamilyName: Amiri
@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1273266481
-ModificationTime: 1588854434
+ModificationTime: 1588855081
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
