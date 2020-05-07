@@ -21,4 +21,5 @@ AnchorPoint: "HighHamza" 197 508 basechar 0
 LayerCount: 2
 Fore
 Refer: 67 -1 N 1 0 0 1 -10 73 2
+Validated: 1
 EndChar

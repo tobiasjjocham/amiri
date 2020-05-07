@@ -1,11 +1,16 @@
 StartChar: uni075E.init_AynMemInit
 Encoding: 1117388 -1 3560
-Width: 490
+Width: 175
 Flags: HW
-AnchorPoint: "TashkilAbove" 142 918 basechar 0
-AnchorPoint: "TashkilBelow" 311 -327 basechar 0
+AnchorPoint: "HamzaAbove" 2 707 basechar 0
+AnchorPoint: "DotAbove" 2 707 basechar 0
+AnchorPoint: "TwoDotsAbove" -52 707 basechar 0
+AnchorPoint: "TashkilAbove" 24 801 basechar 0
+AnchorPoint: "DotBelow" 127 -24 basechar 0
+AnchorPoint: "TwoDotsBelow" 78 -24 basechar 0
+AnchorPoint: "TashkilBelow" 49 -327 basechar 0
 LayerCount: 2
 Fore
-Refer: 206 -1 N 1 0 0 1 166 650 2
-Refer: 383 -1 N 1 0 0 1 0 0 3
+Refer: 194 -1 S 1 0 0 1 175 0 2
+Refer: 384 -1 N 1 0 0 1 0 0 2
 EndChar

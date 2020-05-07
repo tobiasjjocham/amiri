@@ -1,12 +1,16 @@
 StartChar: uni075E.medi_AynYaaFina
 Encoding: 1115516 -1 1688
-Width: 410
+Width: 426
 Flags: HW
-AnchorPoint: "cursive" 0 0 exit 0
-AnchorPoint: "TashkilAbove" 206 801 basechar 0
-AnchorPoint: "TashkilBelow" 195 -327 basechar 0
+AnchorPoint: "TwoDotsBelow" 229 -303 basechar 0
+AnchorPoint: "DotBelow" 277 -303 basechar 0
+AnchorPoint: "TashkilBelow" 253 -327 basechar 0
+AnchorPoint: "TashkilAbove" 268 801 basechar 0
+AnchorPoint: "TwoDotsAbove" 194 586 basechar 0
+AnchorPoint: "DotAbove" 285 586 basechar 0
+AnchorPoint: "HamzaAbove" 243 586 basechar 0
 LayerCount: 2
 Fore
-Refer: 206 -1 N 1 0 0 1 206 396 2
-Refer: 103 -1 N 1 0 0 1 0 0 3
+Refer: 194 -1 S 1 0 0 1 277 -371 2
+Refer: 72 -1 N 1 0 0 1 0 0 2
 EndChar

@@ -20,4 +20,5 @@ AnchorPoint: "HamzaBelow" 355 -532 basechar 0
 LayerCount: 2
 Fore
 Refer: 400 -1 N 1 0 0 1 0 -171 2
+Validated: 1
 EndChar
