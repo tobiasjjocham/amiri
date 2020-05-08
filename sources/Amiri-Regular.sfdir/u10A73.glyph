@@ -1,0 +1,25 @@
+StartChar: u10A73
+Encoding: 68211 68211 6310
+Width: 566
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+107 0 m 1
+ 107 859 l 1
+ 459 859 l 1
+ 459 0 l 1
+ 107 0 l 1
+190 479 m 1
+ 376 479 l 1
+ 376 786 l 1
+ 190 786 l 1
+ 190 479 l 1
+190 73 m 1
+ 376 73 l 1
+ 376 405 l 1
+ 190 405 l 1
+ 190 73 l 1
+EndSplineSet
+EndChar

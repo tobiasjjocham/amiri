@@ -1,0 +1,32 @@
+StartChar: u10A6F
+Encoding: 68207 68207 6306
+Width: 544
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+78 0 m 1
+ 225 215 l 1
+ 78 430 l 1
+ 225 645 l 1
+ 78 860 l 1
+ 173 860 l 1
+ 272 714 l 1
+ 371 860 l 1
+ 466 860 l 1
+ 320 645 l 1
+ 466 430 l 1
+ 320 215 l 1
+ 466 0 l 1
+ 371 0 l 1
+ 272 145 l 1
+ 173 0 l 1
+ 78 0 l 1
+272 285 m 1
+ 371 430 l 1
+ 272 575 l 1
+ 173 430 l 1
+ 272 285 l 1
+EndSplineSet
+EndChar
