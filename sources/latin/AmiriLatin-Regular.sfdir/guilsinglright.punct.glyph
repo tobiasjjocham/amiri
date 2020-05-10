@@ -1,0 +1,17 @@
+StartChar: guilsinglright.punct
+Encoding: 1114468 -1 1595
+Width: 244
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+206 200 m 1
+ 40 64 l 1
+ 40 134 l 1
+ 155 240 l 1
+ 40 347 l 1
+ 40 417 l 1
+ 206 280 l 1
+ 206 200 l 1
+EndSplineSet
+EndChar

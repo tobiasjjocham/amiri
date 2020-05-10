@@ -1,0 +1,59 @@
+StartChar: uni120A
+Encoding: 4618 4618 1005
+Width: 799
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Ethiopic Mark" 268 659 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+757 -33 m 1
+ 728.333333333 -49.6666666667 697.333333333 -58 664 -58 c 0
+ 637.333333333 -58 617.666666667 -52.5 605 -41.5 c 128
+ 592.333333333 -30.5 583.666666667 -12 579 14 c 1
+ 433 1 l 2
+ 430.333333333 1 427 0.833333333333 423 0.5 c 128
+ 419 0.166666666667 415.666666667 0 413 -0 c 0
+ 391.666666667 0 376.166666667 7.16666666667 366.5 21.5 c 128
+ 356.833333333 35.8333333333 350.333333333 55.8333333333 347 81.5 c 128
+ 343.666666667 107.166666667 340.666666667 137 338 171 c 0
+ 336.666666667 189 335.666666667 207 335 225 c 128
+ 334.333333333 243 333.333333333 261 332 279 c 0
+ 330 303 326.166666667 327.666666667 320.5 353 c 128
+ 314.833333333 378.333333333 305.333333333 401 292 421 c 1
+ 259.333333333 395 234.833333333 366.333333333 218.5 335 c 128
+ 202.166666667 303.666666667 191.5 269.833333333 186.5 233.5 c 128
+ 181.5 197.166666667 179 159 179 119 c 0
+ 179 109 179.333333333 98.3333333333 180 87 c 128
+ 180.666666667 75.6666666667 183.333333333 65.3333333333 188 56 c 128
+ 192.666666667 46.6666666667 201 40 213 36 c 1
+ 213 21 l 1
+ 112 2 l 2
+ 106.666666667 1.33333333333 101 0.666666666667 95 0 c 0
+ 74.3333333333 0 61.1666666667 7.66666666667 55.5 23 c 128
+ 49.8333333333 38.3333333333 47 54.6666666667 47 72 c 0
+ 47 133.333333333 51.1666666667 189.833333333 59.5 241.5 c 128
+ 67.8333333333 293.166666667 84.5 341.666666667 109.5 387 c 128
+ 134.5 432.333333333 171.666666667 475.333333333 221 516 c 1
+ 180 591 l 1
+ 303 633 l 1
+ 349 529 l 1
+ 379 513.666666667 402 491.166666667 418 461.5 c 128
+ 434 431.833333333 445.666666667 398.666666667 453 362 c 128
+ 460.333333333 325.333333333 465.166666667 288.5 467.5 251.5 c 128
+ 469.833333333 214.5 472.333333333 180.5 475 149.5 c 128
+ 477.666666667 118.5 482.5 93.5 489.5 74.5 c 128
+ 496.5 55.5 508 46 524 46 c 0
+ 532 46 541 46.6666666667 551 48 c 128
+ 566 50 566 50 581 52 c 1
+ 596.333333333 68 615.5 81.1666666667 638.5 91.5 c 128
+ 661.5 101.833333333 684.333333333 107 707 107 c 0
+ 712.333333333 107 718.666666667 106.5 726 105.5 c 128
+ 733.333333333 104.5 739.666666667 103.333333333 745 102 c 1
+ 741 92 737.5 81.8333333333 734.5 71.5 c 128
+ 731.5 61.1666666667 730 50.6666666667 730 40 c 0
+ 730 24.6666666667 732.166666667 11.6666666667 736.5 1 c 128
+ 740.833333333 -9.66666666667 747.666666667 -21 757 -33 c 1
+EndSplineSet
+Kerns2: 1370 -42 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1337 -61 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1295 -83 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1292 -55 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1290 -73 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1219 -122 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1217 -122 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1197 -107 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1196 -104 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1194 -122 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1193 -122 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1192 -122 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1191 -104 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1146 -120 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1145 -90 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1143 -90 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1126 -90 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1118 -61 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1110 -66 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1094 -90 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1085 -61 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1078 -90 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1067 -66 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1062 -90 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1059 -49 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1049 -80 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1025 -32 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1022 -42 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable" 1021 -73 "'kern' Horizontales Kerning in Ethiopic lookup 0 subtable"
+EndChar

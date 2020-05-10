@@ -1,0 +1,25 @@
+StartChar: uni2074.punct
+Encoding: 1114470 -1 1598
+Width: 366
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+340 502 m 1
+ 285 502 l 1
+ 285 375 l 1
+ 224 375 l 1
+ 224 502 l 1
+ 26 502 l 1
+ 26 543 l 1
+ 239 792 l 1
+ 285 792 l 1
+ 285 543 l 1
+ 340 543 l 1
+ 340 502 l 1
+224 543 m 1
+ 224 716 l 1
+ 77 543 l 1
+ 224 543 l 1
+EndSplineSet
+EndChar

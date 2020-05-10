@@ -1,0 +1,25 @@
+StartChar: guillemotright.punct
+Encoding: 1114371 -1 987
+Width: 441
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+404 201 m 1
+ 237 64 l 1
+ 237 135 l 1
+ 353 241 l 1
+ 237 348 l 1
+ 237 417 l 1
+ 404 281 l 1
+ 404 201 l 1
+207 201 m 1
+ 40 64 l 1
+ 40 135 l 1
+ 155 241 l 1
+ 40 348 l 1
+ 40 417 l 1
+ 207 281 l 1
+ 207 201 l 1
+EndSplineSet
+EndChar

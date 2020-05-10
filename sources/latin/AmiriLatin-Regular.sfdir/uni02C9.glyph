@@ -1,0 +1,16 @@
+StartChar: uni02C9
+Encoding: 713 713 990
+Width: 334
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Ethiopic Mark" 167 718 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+335 586 m 1
+ 0 586 l 1
+ 0 649 l 1
+ 335 649 l 1
+ 335 586 l 1
+EndSplineSet
+EndChar

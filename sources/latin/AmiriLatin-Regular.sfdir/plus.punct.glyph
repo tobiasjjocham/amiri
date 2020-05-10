@@ -1,0 +1,22 @@
+StartChar: plus.punct
+Encoding: 1114351 -1 967
+Width: 1000
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+800 269 m 1
+ 531 269 l 1
+ 531 0 l 1
+ 469 0 l 1
+ 469 269 l 1
+ 200 269 l 1
+ 200 331 l 1
+ 469 331 l 1
+ 469 600 l 1
+ 531 600 l 1
+ 531 331 l 1
+ 800 331 l 1
+ 800 269 l 1
+EndSplineSet
+EndChar
