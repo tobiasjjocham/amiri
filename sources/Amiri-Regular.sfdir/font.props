@@ -66,7 +66,7 @@ Lookup: 260 0 0 "'mark' Small Alef Above" { "'mark' Small Alef Above-1"  } ['mar
 Lookup: 260 0 0 "'mark' Stroke" { "'mark' Stroke-1"  } ['mark' ('DFLT' <'dflt' > 'arab' <'dflt' 'ARA ' 'URD ' 'SND ' 'KSH ' 'MLY ' > ) ]
 Lookup: 260 0 0 "'mark' Digit Above" { "'mark' Digit Above-1"  } ['mark' ('DFLT' <'dflt' > 'arab' <'dflt' 'ARA ' 'URD ' 'SND ' 'KSH ' 'MLY ' > ) ]
 Lookup: 260 0 0 "'mark' Digit Below" { "'mark' Digit Below-1"  } ['mark' ('DFLT' <'dflt' > 'arab' <'dflt' 'ARA ' 'URD ' 'SND ' 'KSH ' 'MLY ' > ) ]
-Lookup: 260 0 0 "'mark' Mark Positioning in Ethiopic" { "'mark' Mark Positioning in Ethiopic lookup-1"  } ['mark' ('DFLT' <'dflt' > 'ethi' <'dflt' 'CHG ' 'GMZ ' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning in Ethiopic" { "'mark' Mark Positioning in Ethiopic lookup-1"  } ['mark' ('DFLT' <'dflt' > 'arab' <'ARA ' 'KSH ' 'MLY ' 'SND ' 'URD ' 'dflt' > 'ethi' <'dflt' > ) ]
 Lookup: 262 0 0 "'mkmk' Tashkil to Tashkil Above" { "'mkmk' Tashkil to Tashkil Above-1"  } ['mkmk' ('DFLT' <'dflt' > 'arab' <'dflt' 'ARA ' 'URD ' 'SND ' 'KSH ' 'MLY ' > ) ]
 Lookup: 262 0 0 "'mkmk' Tashkil to Tashkil Above 2" { "'mkmk' Tashkil to Tashkil Above 2-1"  } ['mkmk' ('DFLT' <'dflt' > 'arab' <'dflt' 'ARA ' 'URD ' 'SND ' 'KSH ' 'MLY ' > ) ]
 Lookup: 262 0 0 "'mkmk' Tashkil to Tashkil Below" { "'mkmk' Tashkil to Tashkil Below-1"  } ['mkmk' ('DFLT' <'dflt' > 'arab' <'dflt' 'ARA ' 'URD ' 'SND ' 'KSH ' 'MLY ' > ) ]
